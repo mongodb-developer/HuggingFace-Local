@@ -1,4 +1,4 @@
-## MongoDB Vector Search with Sentence Embeddings
+## MongoDB Vector Search with LOCAL Sentence Embeddings (Cisco)
 
 ### Prerequisites
 
