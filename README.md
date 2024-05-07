@@ -1,4 +1,4 @@
-# MongoDB Vector Search with LOCAL Sentence Embeddings (Cisco)
+# MongoDB Vector Search with LOCAL Sentence Embeddings
 <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" alt="Huggingface Logo" width="300">
 ### Prerequisites
 
